@@ -7,3 +7,5 @@ notaC = float(input())
 resultPeso = pesoA+pesoB+pesoC
 resutFinal = ((notaA*pesoA)+(notaB*pesoB)+(notaC*pesoC))/resultPeso
 print(f"MEDIA = {resutFinal:.1f}")
+
+asas
